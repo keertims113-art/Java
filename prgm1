@@ -1,0 +1,19 @@
+package javaaa;
+
+public class OOPS {
+	void add(String s)
+	{
+		System.out.println("Sting");
+	}
+	void add(int a)
+	{
+		System.out.println("intger");
+	}
+	public static void main(String[]args) {
+		OOPS tt  =new OOPS();
+		tt.add("sdasdf");
+		 tt.add(5);
+	}
+	
+
+}
