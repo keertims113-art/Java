@@ -1,0 +1,26 @@
+package javaaa;
+
+
+		 abstract class Atm1 {
+		 abstract void withdraw();
+		 abstract void deposite();
+		}
+		public class Atm extends Atm1 {
+		  void withdraw()
+		  {
+			  System.out.println("withdraw");
+		  }
+		  void deposite()
+		  {
+			  System.out.println("deposite");
+		  }
+			public static void main(String[]args) {
+				Atm ff = new Atm();
+				ff.withdraw();
+				ff.deposite();
+			}
+		}
+
+
+
+	
