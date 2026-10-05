@@ -1,0 +1,37 @@
+package javaaa;
+
+public class months {
+	public static void main(String[]args)
+	{
+		int months=6;
+		switch(months)
+		{
+			case 0:
+				System.out.println(" welcme to january");
+				break;
+			case 1:
+				System.out.println("februry");
+				break;
+			case 2:
+				System.out.println(" welcme to march");
+				break;
+			case 3:
+				System.out.println(" welcme to april");
+				break;
+			case 4:
+				System.out.println(" welcme to may");
+				break;
+			case 5:
+				System.out.println(" welcme to june");
+				break;
+			case 6:
+				System.out.println(" welcme to july");
+				break;
+				
+				
+				
+		}
+		
+	}
+
+}
