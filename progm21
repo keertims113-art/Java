@@ -1,0 +1,15 @@
+package project;
+
+public class Demo
+{
+	static void display() {
+		System.out.println("KEERTI");
+	}
+	
+	public static void main(String[]args) {
+	    display();
+		//Demo.display();
+		
+	}
+}
+	
