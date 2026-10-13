@@ -1,0 +1,19 @@
+package project;
+
+public class Demo
+{
+		    public static void main(String[] args) {
+		        String s = "I like cat";
+
+		        s = s.replace("cat", "dog");
+
+		        System.out.println(s);
+		    }
+		}
+	
+		
+		
+		
+		
+		
+	
