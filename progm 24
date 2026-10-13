@@ -1,0 +1,18 @@
+package project;
+
+public class Demo
+{
+	public static void main(String[]args) {
+		StringBuilder ab = new StringBuilder("Java programme");
+		ab.insert(5, "IE");
+		System.out.println(ab);
+	
+	}
+}
+		
+		
+		
+		
+		
+		
+	
