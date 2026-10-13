@@ -1,0 +1,19 @@
+package project;
+
+public class Demo
+{
+	public static void main(String[]args) {
+		String city ="banglore";
+	
+		System.out.println(city.length());
+		System.out.println(city.toUpperCase());
+		System.out.println(city.equals("banglore"));
+	}
+}
+		
+		
+		
+		
+		
+		
+	
