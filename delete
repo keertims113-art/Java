@@ -1,0 +1,25 @@
+package project;
+
+public class Demo
+{
+	public static void main(String[]args) {
+		StringBuilder ab = new StringBuilder("Java programme");
+		ab.delete(4, 17);
+		System.out.println(ab);
+		StringBuilder ab2 = new StringBuilder("Java");
+		ab2.deleteCharAt(3);
+		System.out.println(ab2);
+		
+	
+	}
+		
+	
+	}
+
+		
+		
+		
+		
+		
+		
+	
