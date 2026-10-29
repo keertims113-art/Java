@@ -1,0 +1,23 @@
+package project;
+
+public class Demo
+{
+	    public static void main(String[] args) {
+	        String str = "lukcy";
+
+	        if (str.charAt(0) == str.charAt(str.length() - 1)) {
+	            System.out.println("Starting and ending characters are same");
+	        } else {
+	            System.out.println("Starting and ending characters are not same");
+	        }
+	    }
+	}
+
+	   
+		        
+		
+		
+		
+		
+		
+	
