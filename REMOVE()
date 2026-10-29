@@ -1,0 +1,26 @@
+package project;
+import java.util.ArrayList;
+
+public class Demo
+{
+	    public static void main(String[]args) {
+	    	ArrayList<String> name = new ArrayList<>();
+	    	name.add("Aishu");
+	    	name.add("keerti");
+	    	name.add("Meera");
+	    	name.remove(1);
+	    	name.remove("Meera");
+	    	
+	            System.out.println(name);
+	        }
+	    }
+	
+
+	   
+		        
+		
+		
+		
+		
+		
+	
